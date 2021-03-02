@@ -46,7 +46,6 @@ load_files() {
 }
 
 echo "GUIDE:"
-echo "To clean processes run: /home/pi/scripts/clean_omxplayer.sh"
 echo "TO skip song click 'q'"
 echo 
 
